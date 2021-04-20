@@ -1,0 +1,9 @@
+2021-04-11 16:55:26,933 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2021-04-11 16:55:26,952 DEBUG    root            Loaded Command Group: ['gcloud', 'components', 'list']
+2021-04-11 16:55:26,955 DEBUG    root            Running [gcloud.components.list] with arguments: [--filter: "id:app-engine-java", --format: "json", --only-local-state: "True"]
+2021-04-11 16:55:26,977 INFO     ___FILE_ONLY___ 
+Your current Cloud SDK version is: 335.0.0
+
+2021-04-11 16:55:26,979 INFO     root            Display format: "table[box,title="Components"](name:label=Name,id:label=ID,size.size(zero="",min=1048576):label=Size:align=right) json"
+2021-04-11 16:55:27,176 INFO     ___FILE_ONLY___ []
+

@@ -1,0 +1,1317 @@
+{
+  "coc-rust-analyzer|global": {
+    "release": "2021-01-18"
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/Users/okimdil/goinfre/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/okimdil/goinfre/anaconda3",
+        "fileHash": "d2255b716986e757ba9a2a79bf8eb2a62ffa9d33990bb8f131fb48eff78424baa947dbecc8c9e42088dd0e65a1d464514b06f61303fc0e80c70d9f925a4ea156",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/Users/okimdil/goinfre/anaconda3",
+        "envName": "anaconda3"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b951f064ba2dd8b49d58f19b73d5da6124622e96626b310d52c669bfedcedcad6c47b0a345d050a3103d6a05841cbfa9c77d03c588bcd6a3bf68e887930e0ce4"
+      },
+      "expiry": 1616250495257
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956"
+      },
+      "expiry": 1616250495242
+    },
+    "/Users/okimdil/.brew/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/okimdil/.brew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.1_3/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "466bc2f789349ebe96e690546cd7bb04e0c5aa95cabd4fe32181388758bfa1075a0b98a3229290d445d4118946bba827487a92b706b79c30a7610fc1d887ce10"
+      },
+      "expiry": 1614006528479
+    },
+    "/Users/okimdil/.brew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/okimdil/.brew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.1_3/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "e7dd9395768b239b13d8f314d3e891bd35ed257e1fae650553a83f74dc523bc154728a7ae376b56e24667f1c082a67d047bd02f7a45b26e441eb45850a55a706"
+      },
+      "expiry": 1614006528470
+    },
+    "/usr/local/munki/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/munki/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.4-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.4-final"
+        },
+        "sysPrefix": "/usr/local/munki/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/../../../../../../Versions/3.7",
+        "fileHash": "39390e0862b9cd6d1b72b444c540c5638b70c326f254326b1ab241641ba3eaf22b5e3faada69cf87a6cc92e294083eda62925af31e315ac5879d081f6e6ef6b2"
+      },
+      "expiry": 1616250495032
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/goinfre/okimdil/.brew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "f959c7887a379a001a26a922cef5b4db9dabdc8a992367a4931f24e6279c811a33f0e511643363b266d9918033cc7b286d6458f1d2b3d337c38547b8b92d742d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/goinfre/okimdil/.brew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "390446afae5cc1349d596522ed256f9ae744af76d2b70251df8320a350037bf05cee03c4ca7780715f6a9734a0b10327f9e59191f8e6d714d22675343aaf6376",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "20b959e1ca9851682aa8ec340229b9e5bd8ab2687c167bdfdaacd3a8a568c1888758506f68e60b949e6c20dc0697605532f8280c513414d593afbbc2aea9c4fc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "2db18aafeabe9d4becbc5cde9032bdebf851b1cd7230b6df10a371fb4375c48b6a09a3cdead42cf80b8c90a9ece9715ef668829cac34a7b422a5c13e393a61cf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b951f064ba2dd8b49d58f19b73d5da6124622e96626b310d52c669bfedcedcad6c47b0a345d050a3103d6a05841cbfa9c77d03c588bcd6a3bf68e887930e0ce4",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr/local/bin/../../../Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/munki/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.4-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.4-final"
+        },
+        "sysPrefix": "/usr/local/munki/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/../../../../../../Versions/3.7",
+        "fileHash": "39390e0862b9cd6d1b72b444c540c5638b70c326f254326b1ab241641ba3eaf22b5e3faada69cf87a6cc92e294083eda62925af31e315ac5879d081f6e6ef6b2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b951f064ba2dd8b49d58f19b73d5da6124622e96626b310d52c669bfedcedcad6c47b0a345d050a3103d6a05841cbfa9c77d03c588bcd6a3bf68e887930e0ce4",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr/local/bin/../../../Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "20b959e1ca9851682aa8ec340229b9e5bd8ab2687c167bdfdaacd3a8a568c1888758506f68e60b949e6c20dc0697605532f8280c513414d593afbbc2aea9c4fc",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "2db18aafeabe9d4becbc5cde9032bdebf851b1cd7230b6df10a371fb4375c48b6a09a3cdead42cf80b8c90a9ece9715ef668829cac34a7b422a5c13e393a61cf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b951f064ba2dd8b49d58f19b73d5da6124622e96626b310d52c669bfedcedcad6c47b0a345d050a3103d6a05841cbfa9c77d03c588bcd6a3bf68e887930e0ce4",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr/local/bin/../../../Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555",
+        "type": "Unknown"
+      }
+    ],
+    "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0"
+      },
+      "expiry": 1616250495365
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "2db18aafeabe9d4becbc5cde9032bdebf851b1cd7230b6df10a371fb4375c48b6a09a3cdead42cf80b8c90a9ece9715ef668829cac34a7b422a5c13e393a61cf",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.10-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.10-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+      "type": "Unknown"
+    },
+    "PipEnvInformation": [],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "/Users/okimdil/.brew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "e7dd9395768b239b13d8f314d3e891bd35ed257e1fae650553a83f74dc523bc154728a7ae376b56e24667f1c082a67d047bd02f7a45b26e441eb45850a55a706-b0a436ca8d17256b2b3f1b0639e4493c"
+      },
+      "expiry": 1614006528587
+    },
+    "/usr/local/munki/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.4 64-bit",
+        "hash": "39390e0862b9cd6d1b72b444c540c5638b70c326f254326b1ab241641ba3eaf22b5e3faada69cf87a6cc92e294083eda62925af31e315ac5879d081f6e6ef6b2-5db64778d03c8e67af6aa0a27bf56ed1"
+      },
+      "expiry": 1616250495464
+    },
+    "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.2 64-bit",
+        "hash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0-06492e55a4a509e97a6f862a12b9bdb6"
+      },
+      "expiry": 1616250496042
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.10 64-bit",
+        "hash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956-aac173ed32eec9df9150fd52f0c7fddb"
+      },
+      "expiry": 1616250495441
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "/Users/okimdil/.brew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e7dd9395768b239b13d8f314d3e891bd35ed257e1fae650553a83f74dc523bc154728a7ae376b56e24667f1c082a67d047bd02f7a45b26e441eb45850a55a706",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/okimdil/.brew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.1_3/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "e7dd9395768b239b13d8f314d3e891bd35ed257e1fae650553a83f74dc523bc154728a7ae376b56e24667f1c082a67d047bd02f7a45b26e441eb45850a55a706",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1614006528625
+    },
+    "/usr/local/munki/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "39390e0862b9cd6d1b72b444c540c5638b70c326f254326b1ab241641ba3eaf22b5e3faada69cf87a6cc92e294083eda62925af31e315ac5879d081f6e6ef6b2",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/munki/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.4-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.4-final"
+          },
+          "sysPrefix": "/usr/local/munki/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/../../../../../../Versions/3.7",
+          "fileHash": "39390e0862b9cd6d1b72b444c540c5638b70c326f254326b1ab241641ba3eaf22b5e3faada69cf87a6cc92e294083eda62925af31e315ac5879d081f6e6ef6b2",
+          "type": "Unknown",
+          "displayName": "Python 3.7.4 64-bit"
+        }
+      },
+      "expiry": 1616250495686
+    },
+    "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+        "info": {
+          "architecture": 3,
+          "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.2-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.2-final"
+          },
+          "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+          "type": "Unknown",
+          "displayName": "Python 3.9.2 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1616250495767
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.10-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.10-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "89390e676bc4865c564085dcc4d23f929296ac68d4fea8206d020c9714a516c4847830455cded8aaaa64c19ffcdff02b5196afde0a2c751a1869f4f5dabaa956",
+          "type": "Unknown",
+          "displayName": "Python 2.7.10 64-bit"
+        }
+      },
+      "expiry": 1616250495652
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "/goinfre/okimdil/.brew/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/goinfre/okimdil/.brew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "390446afae5cc1349d596522ed256f9ae744af76d2b70251df8320a350037bf05cee03c4ca7780715f6a9734a0b10327f9e59191f8e6d714d22675343aaf6376"
+      },
+      "expiry": 1616250495060
+    },
+    "/goinfre/okimdil/.brew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/goinfre/okimdil/.brew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.2-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.2-final"
+        },
+        "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "f959c7887a379a001a26a922cef5b4db9dabdc8a992367a4931f24e6279c811a33f0e511643363b266d9918033cc7b286d6458f1d2b3d337c38547b8b92d742d"
+      },
+      "expiry": 1616250495095
+    },
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "20b959e1ca9851682aa8ec340229b9e5bd8ab2687c167bdfdaacd3a8a568c1888758506f68e60b949e6c20dc0697605532f8280c513414d593afbbc2aea9c4fc"
+      },
+      "expiry": 1616250495200
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/usr/local/bin/../../../Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555"
+      },
+      "expiry": 1616250495178
+    },
+    "/usr/local/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.7-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.7-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "2db18aafeabe9d4becbc5cde9032bdebf851b1cd7230b6df10a371fb4375c48b6a09a3cdead42cf80b8c90a9ece9715ef668829cac34a7b422a5c13e393a61cf"
+      },
+      "expiry": 1616250495190
+    },
+    "/goinfre/okimdil/.brew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.2 64-bit",
+        "hash": "f959c7887a379a001a26a922cef5b4db9dabdc8a992367a4931f24e6279c811a33f0e511643363b266d9918033cc7b286d6458f1d2b3d337c38547b8b92d742d-5f987aafc171570ab50e6367dd79e268"
+      },
+      "expiry": 1616250495425
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.7 64-bit",
+        "hash": "20b959e1ca9851682aa8ec340229b9e5bd8ab2687c167bdfdaacd3a8a568c1888758506f68e60b949e6c20dc0697605532f8280c513414d593afbbc2aea9c4fc-a199424d09fcf80948094076c0173aa5"
+      },
+      "expiry": 1616250495433
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.7 64-bit",
+        "hash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555-a17dc47ca4b9ae8c066d73d7fc7f33c4"
+      },
+      "expiry": 1616250495451
+    },
+    "/goinfre/okimdil/.brew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f959c7887a379a001a26a922cef5b4db9dabdc8a992367a4931f24e6279c811a33f0e511643363b266d9918033cc7b286d6458f1d2b3d337c38547b8b92d742d",
+        "info": {
+          "architecture": 3,
+          "path": "/goinfre/okimdil/.brew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.2-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.2-final"
+          },
+          "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "f959c7887a379a001a26a922cef5b4db9dabdc8a992367a4931f24e6279c811a33f0e511643363b266d9918033cc7b286d6458f1d2b3d337c38547b8b92d742d",
+          "type": "Unknown",
+          "displayName": "Python 3.9.2 64-bit"
+        }
+      },
+      "expiry": 1616250495616
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "20b959e1ca9851682aa8ec340229b9e5bd8ab2687c167bdfdaacd3a8a568c1888758506f68e60b949e6c20dc0697605532f8280c513414d593afbbc2aea9c4fc",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.7-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.7-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "20b959e1ca9851682aa8ec340229b9e5bd8ab2687c167bdfdaacd3a8a568c1888758506f68e60b949e6c20dc0697605532f8280c513414d593afbbc2aea9c4fc",
+          "type": "Unknown",
+          "displayName": "Python 3.7.7 64-bit"
+        }
+      },
+      "expiry": 1616250495635
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.7-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.7-final"
+          },
+          "sysPrefix": "/usr/local/bin/../../../Library/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "0359de5ba8d40c64ef96b2640a0dfaa7a991d6f04089970898a006d78a92c568a39c58bbbad96f852ac0fa09065506a9b792accb85310ac253008655acf86555",
+          "type": "Unknown",
+          "displayName": "Python 3.7.7 64-bit"
+        }
+      },
+      "expiry": 1616250495667
+    },
+    "/Users/okimdil/goinfre/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/okimdil/goinfre/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/Users/okimdil/goinfre/anaconda3",
+        "fileHash": "d2255b716986e757ba9a2a79bf8eb2a62ffa9d33990bb8f131fb48eff78424baa947dbecc8c9e42088dd0e65a1d464514b06f61303fc0e80c70d9f925a4ea156"
+      },
+      "expiry": 1616250495732
+    },
+    "CONDA_ENVIRONMENTS": {},
+    "/Users/okimdil/goinfre/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('anaconda3': conda)",
+        "hash": "d2255b716986e757ba9a2a79bf8eb2a62ffa9d33990bb8f131fb48eff78424baa947dbecc8c9e42088dd0e65a1d464514b06f61303fc0e80c70d9f925a4ea156-d5093cfa7ed004148a260da3082ffe94"
+      },
+      "expiry": 1616250496018
+    },
+    "/Users/okimdil/goinfre/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d2255b716986e757ba9a2a79bf8eb2a62ffa9d33990bb8f131fb48eff78424baa947dbecc8c9e42088dd0e65a1d464514b06f61303fc0e80c70d9f925a4ea156",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/okimdil/goinfre/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/Users/okimdil/goinfre/anaconda3",
+          "fileHash": "d2255b716986e757ba9a2a79bf8eb2a62ffa9d33990bb8f131fb48eff78424baa947dbecc8c9e42088dd0e65a1d464514b06f61303fc0e80c70d9f925a4ea156",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/Users/okimdil/goinfre/anaconda3",
+          "envName": "anaconda3",
+          "displayName": "Python 3.8.5 64-bit ('anaconda3': conda)"
+        }
+      },
+      "expiry": 1616250496080
+    }
+  },
+  "coc-python|/Users/okimdil/go/src/github.com/Golang_Training": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e50e3b76fb3cd5ef5b4caf2063f85585": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e50e3b76fb3cd5ef5b4caf2063f85585": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/okimdil/go/src/github.com/Golang_Training": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.1_3/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "3a3402160bd6692f8dbca424f1166f8501d49961650c8fef54c977374e9dbba609cdacd03f24c871aff15ea1499333f958e3bf4baf4b0a2191369cd08faa7ca4",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/goinfre/okimdil/dev/AdvancedNodejs": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a0c91fe2aeb8eb31df0a9bb598293d1a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a0c91fe2aeb8eb31df0a9bb598293d1a": [],
+    "autoSelectedWorkspacePythonInterpreter-/goinfre/okimdil/dev/AdvancedNodejs": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.1_3/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "3a3402160bd6692f8dbca424f1166f8501d49961650c8fef54c977374e9dbba609cdacd03f24c871aff15ea1499333f958e3bf4baf4b0a2191369cd08faa7ca4",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/goinfre/okimdil/dev/python_data_analyse": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:ff7692dceaf5e87ee559a16308c1b352": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:ff7692dceaf5e87ee559a16308c1b352": [],
+    "autoSelectedWorkspacePythonInterpreter-/goinfre/okimdil/dev/python_data_analyse": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/goinfre/okimdil/dev": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e93834d8c7fb442914ee0850a08ba36d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e93834d8c7fb442914ee0850a08ba36d": [],
+    "autoSelectedWorkspacePythonInterpreter-/goinfre/okimdil/dev": {
+      "architecture": 3,
+      "path": "/goinfre/okimdil/.brew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.2-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.2-final"
+      },
+      "sysPrefix": "/goinfre/okimdil/.brew/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "59931c045be61a014ef0639ccefff90f37f41a25a06e879100cf586762d5a645255fdf8d041fe35c139b4dec756c1bfd7d4e4650265d6dbb5f2f52ad3c1e8bd0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

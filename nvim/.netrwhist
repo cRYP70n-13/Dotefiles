@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/okimdil/Documents/dev/typescript'
+let g:netrw_dirhist_7='/Users/okimdil'
+let g:netrw_dirhist_6='/Users/okimdil/Documents/dev/Cub3d_DONE/src'
+let g:netrw_dirhist_5='/Users/okimdil/Documents/dev/Cub3d_DONE'
+let g:netrw_dirhist_4='/Users/okimdil/.config/nvim'
+let g:netrw_dirhist_3='/Users/okimdil/Documents/dev/Cub3d_DONE/src'
+let g:netrw_dirhist_2='/Users/okimdil/Documents/dev/Cub3d_DONE'
+let g:netrw_dirhist_1='/Users/okimdil/.config/nvim'
